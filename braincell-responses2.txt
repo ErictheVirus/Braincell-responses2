@@ -1,20 +1,50 @@
-${user} is running on ${random.1-100} braincells. Bold move.
-${user} has ${random.1-100} braincells left and uses them all wrong.
-${user} is down to ${random.1-100} braincells. Reboot pending.
-${user} has ${random.1-100} braincells. That explains a lot.
-${user} is operating on ${random.1-100} braincells. Expect chaos.
-${user} has ${random.1-100} braincells left. Please plug them in.
-${user} is running on ${random.1-100} braincells, and the warranty expired years ago.
-${user} has ${random.1-100} braincells left, all of them currently on lunch break.
-${user} is down to ${random.1-100} braincells, and they’re forming a union.
-${user} has ${random.1-100} braincells left, but they refuse to work weekends.
-${user} is operating on ${random.1-100} braincells, which are doing their best.
-${user} has ${random.1-100} braincells left, and they’re buffering.
-${user} is running on ${random.1-100} braincells, now featuring occasional common sense.
-${user} has ${random.1-100} braincells left, and they’re all arguing.
-${user} is down to ${random.1-100} braincells, but morale remains high.
-${user} has ${random.1-100} braincells left, currently in power‑saving mode.
-${user} is operating on ${random.1-100} braincells, which explains the vibes today.
-${user} has ${random.1-100} braincells left, and they’re doing jazz hands.
-${user} is running on ${random.1-100} braincells, and they’ve requested snacks.
-${user} has ${random.1-100} braincells left, and they’re trying their best.
+is running on some questionable brainpower today.
+has a braincell situation that defies science.
+is operating entirely on vibes and hope.
+is powered by a single flickering thought.
+is currently in low‑braincell mode.
+is experiencing reduced cognitive horsepower.
+is running a trial version of thinking.
+is operating with limited mental bandwidth.
+is navigating life with minimal processing power.
+is using a backup braincell from 1998.
+is running on a braincell that keeps asking for a break.
+is powered by a braincell that refuses to read instructions.
+is operating with a braincell that’s doing its best.
+is relying on a braincell that’s slightly confused.
+is running on a braincell that keeps buffering.
+is powered by a braincell that wants a snack first.
+is operating with a braincell that’s clocked out early.
+is running on a braincell that’s not paid enough for this.
+is powered by a braincell that’s improvising.
+is operating with a braincell that’s winging it.
+is running on a braincell that’s still loading.
+is powered by a braincell that’s on vacation.
+is operating with a braincell that’s trying to remember why it walked into the room.
+is running on a braincell that’s doing jazz hands.
+is powered by a braincell that’s slightly overcaffeinated.
+is operating with a braincell that’s under review.
+is running on a braincell that’s filing a complaint.
+is powered by a braincell that’s not sure what’s happening.
+is operating with a braincell that’s just along for the ride.
+is running on a braincell that’s thinking about snacks.
+is powered by a braincell that’s multitasking poorly.
+is operating with a braincell that’s still waking up.
+is running on a braincell that’s questioning its life choices.
+is powered by a braincell that’s trying to stay positive.
+is operating with a braincell that’s doing interpretive dance.
+is running on a braincell that’s slightly overwhelmed.
+is powered by a braincell that’s pretending to know what it’s doing.
+is operating with a braincell that’s on its last nerve.
+is running on a braincell that’s not built for this.
+is powered by a braincell that’s trying to keep it together.
+is operating with a braincell that’s thinking about taking a nap.
+is running on a braincell that’s confused but committed.
+is powered by a braincell that’s doing the bare minimum.
+is operating with a braincell that’s improvising wildly.
+is running on a braincell that’s not sure this is the right timeline.
+is powered by a braincell that’s trying to remember the tutorial.
+is operating with a braincell that’s slightly tilted.
+is running on a braincell that’s convinced it’s optional.
+is powered by a braincell that’s trying to reboot.
+is operating with a braincell that’s not fully charged.
